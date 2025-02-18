@@ -1,0 +1,47 @@
+[21:09:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:09:44] [ServerMain/INFO]: No existing world data, creating new world
+[21:09:46] [ServerMain/INFO]: Loaded 1290 recipes
+[21:09:46] [ServerMain/INFO]: Loaded 1399 advancements
+[21:09:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:09:47] [Server thread/INFO]: Loading properties
+[21:09:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:09:47] [Server thread/INFO]: Generating keypair
+[21:09:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:09:47] [Server thread/INFO]: Using epoll channel type
+[21:09:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:09:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:09:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:09:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:09:47] [Server thread/INFO]: Preparing level "world"
+[21:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:10:00] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:10:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:10:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:10:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:10:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:04] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:04] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:05] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:05] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:06] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:06] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:08] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:08] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:09] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:09] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:10] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:10:10] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[21:10:10] [Server thread/INFO]: Time elapsed: 10072 ms
+[21:10:10] [Server thread/INFO]: Done (23.113s)! For help, type "help"
+[21:12:21] [Server thread/INFO]: NotMcCriss[/127.4.136.92:38031] logged in with entity id 17 at (55.5, 74.0, 7.5)
+[21:12:21] [Server thread/INFO]: NotMcCriss joined the game
+[21:12:38] [Server thread/INFO]: [Not Secure] <NotMcCriss> bro
+[21:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3482ms or 69 ticks behind
+[21:13:00] [Server thread/INFO]: ChisuYT[/127.71.83.56:54409] logged in with entity id 279 at (45.5, 75.0, 2.5)
+[21:13:00] [Server thread/INFO]: ChisuYT joined the game
+[21:14:52] [Server thread/INFO]: NotMcCriss has made the advancement [Stone Age]
+[21:15:23] [Server thread/INFO]: NotMcCriss has made the advancement [Getting an Upgrade]
