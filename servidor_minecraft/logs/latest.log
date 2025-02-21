@@ -1249,3 +1249,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:cast_iron_distillation_o
 [21Feb2025 21:01:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set the time to 1000]
 [21Feb2025 21:03:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Creative Mode]
 [21Feb2025 21:03:48.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Survival Mode]
+[21Feb2025 21:07:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Creative Mode]
+[21Feb2025 21:08:03.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Survival Mode]
+[21Feb2025 21:11:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set the time to 1000]
+[21Feb2025 21:13:17.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotMcCriss[/127.4.136.92:37443] logged in with entity id 5189 at (299.5020226583454, 72.0, 90.75220575893464)
+[21Feb2025 21:13:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss joined the game
+[21Feb2025 21:13:21.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Feb2025 21:13:39.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotMcCriss> onde tas
