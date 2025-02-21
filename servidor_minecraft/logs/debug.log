@@ -12293,3 +12293,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:cast_iron_distillation_o
 [21Feb2025 21:54:00.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Creative Mode]
 [21Feb2025 21:55:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Survival Mode]
 [21Feb2025 21:55:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss has made the advancement [Best Friends Forever]
+[21Feb2025 21:55:40.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 21:55:40.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 21:57:57.724] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinSharedDepotBlockMethods from valkyrienskies-common.mixins.json into com.simibubi.create.content.logistics.depot.SharedDepotBlockMethods
+[21Feb2025 21:58:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChisuYT has made the advancement [Bonk!]
+[21Feb2025 22:00:40.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 22:00:40.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 22:02:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss has made the advancement [Sweet Dreams]
+[21Feb2025 22:04:39.847] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.accessors.Matrix3dAccessor from valkyrienskies-common.mixins.json into com.simibubi.create.foundation.collision.Matrix3d
+[21Feb2025 22:05:40.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 22:05:40.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
