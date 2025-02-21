@@ -1244,3 +1244,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:cast_iron_distillation_o
 [21Feb2025 20:49:51.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotMcCriss[/127.4.136.92:33995] logged in with entity id 783 at (410.4724095427926, -10.0, 77.30000001192093)
 [21Feb2025 20:49:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss joined the game
 [21Feb2025 20:49:54.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[21Feb2025 20:54:18.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotMcCriss lost connection: Disconnected
+[21Feb2025 20:54:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss left the game
+[21Feb2025 21:01:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set the time to 1000]
+[21Feb2025 21:03:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Creative Mode]
+[21Feb2025 21:03:48.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChisuYT: Set own game mode to Survival Mode]
