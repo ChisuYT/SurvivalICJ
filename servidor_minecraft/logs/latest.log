@@ -1256,3 +1256,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:cast_iron_distillation_o
 [21Feb2025 21:13:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss joined the game
 [21Feb2025 21:13:21.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [21Feb2025 21:13:39.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotMcCriss> onde tas
+[21Feb2025 21:20:44.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotMcCriss lost connection: Disconnected
+[21Feb2025 21:20:44.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss left the game
+[21Feb2025 21:21:23.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=70, z=-73} BlockPos{x=-5, y=69, z=-74}
+[21Feb2025 21:21:43.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6854509d[id=<null>,name=NotMcCriss,properties={},legacy=false] (/127.4.136.92:56501) lost connection: Disconnected
+[21Feb2025 21:21:56.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotMcCriss[/127.4.136.92:49461] logged in with entity id 7522 at (20.46763965602755, 70.0, -62.1392373853756)
+[21Feb2025 21:21:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss joined the game
+[21Feb2025 21:23:50.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=72, z=-37} BlockPos{x=14, y=71, z=-36}
+[21Feb2025 21:25:23.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=71, z=-42} BlockPos{x=39, y=70, z=-41}
+[21Feb2025 21:29:18.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8, y=69, z=-78} BlockPos{x=9, y=68, z=-76}
+[21Feb2025 21:29:19.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8, y=70, z=-74} BlockPos{x=4, y=69, z=-76}
+[21Feb2025 21:29:20.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=70, z=-72} BlockPos{x=13, y=69, z=-72}
+[21Feb2025 21:29:20.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=70, z=-72} BlockPos{x=13, y=69, z=-72}
+[21Feb2025 21:29:28.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=69, z=-55} BlockPos{x=4, y=68, z=-55}
+[21Feb2025 21:31:51.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=69, z=-71} BlockPos{x=-12, y=69, z=-72}
+[21Feb2025 21:32:08.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8, y=70, z=-52} BlockPos{x=-7, y=69, z=-51}
+[21Feb2025 21:32:18.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotMcCriss lost connection: Disconnected
+[21Feb2025 21:32:18.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotMcCriss left the game
+[21Feb2025 21:34:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChisuYT has made the advancement [The Andesite Age]
+[21Feb2025 21:35:09.883] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41bc02c0[id=<null>,name=NotMcCriss,properties={},legacy=false] (/127.4.136.92:60441) lost connection: Disconnected
